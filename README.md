@@ -1,5 +1,9 @@
 # Graph Pricing Model
 
+
+## **NOTE** Work In Progresss!
+This code is not currently working
+
 The **Graph Pricing Model** is a Python-based project that uses graph structures to model and calculate pricing for complex orders. It supports modular subgraphs, allowing for flexible and reusable pricing components.
 
 ## Features
@@ -24,7 +28,7 @@ graph-pricing-model/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/graph-pricing-model.git
+   git clone https://github.com/alexdivadi/graph-pricing-model.git
    cd graph-pricing-model
    ```
 
@@ -97,14 +101,6 @@ To add new layers or subgraphs:
 2. Add it as a `SubgraphLayer` in `PricingGraph`.
 3. Define edges to connect it to other layers.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## Contact
-
-For questions or support, please contact [your-email@example.com].
